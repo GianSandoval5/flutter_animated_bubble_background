@@ -152,7 +152,7 @@ AnimatedBubbleBackground(
 
 <div align="center">
 
-### 🌟 Temas Predefinidos
+### 🌟 Ejemplo de temas
 
 <table>
 <tr>
@@ -455,24 +455,12 @@ MIT License - Copyright (c) 2025 Gian Sandoval
 
 ### ⭐ ¿Te gustó el paquete?
 
-<img src="assets/tropicalSunsetGradient.png" width="200" style="border-radius: 15px; margin: 10px;" />
-
 Si **Flutter Animated Bubble Background** te fue útil, considera:
 
 - ⭐ **Darle una estrella** al repositorio
 - 🐦 **Compartirlo** en redes sociales
 - 📝 **Escribir una reseña** en pub.dev
 - 🤝 **Contribuir** al proyecto
-
-### 🌈 Galería de la Comunidad
-
-<p>
-<img src="assets/purpleGalaxyGradient.png" width="100" style="border-radius: 8px; margin: 3px;" />
-<img src="assets/tropicalSunsetGradient.png" width="100" style="border-radius: 8px; margin: 3px;" />
-<img src="assets/deepOceanGradient.png" width="100" style="border-radius: 8px; margin: 3px;" />
-<img src="assets/mysticalForestGradient.png" width="100" style="border-radius: 8px; margin: 3px;" />
-<img src="assets/basicExampleGradient.png" width="100" style="border-radius: 8px; margin: 3px;" />
-</p>
 
 **Hecho con ❤️ para la comunidad Flutter**
 
