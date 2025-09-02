@@ -1,5 +1,3 @@
-library flutter_animated_bubble_background;
-
 import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:flutter_animated_bubble_background/buble/buble.dart';
