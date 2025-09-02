@@ -12,8 +12,6 @@ topics:
   - background
   - bubbles
   - gradient
-  - flutter-widget
-  - beautiful-ui
 
 screenshots:
   - description: 'Purple Galaxy gradient with animated bubbles'
