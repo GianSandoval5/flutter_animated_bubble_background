@@ -58,7 +58,7 @@ void main() {
               maxBubbleSize: 30.0,
               speed: 2.0,
               bubbleColor: Colors.yellow,
-              bubbleOpacity: 0.5,
+              bubbleOpacity: 200,
             ),
           ),
         ),
