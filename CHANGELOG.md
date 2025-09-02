@@ -36,3 +36,8 @@
 - Widget tests for rendering and interaction
 - Platform compatibility tests
 - Performance benchmarks
+
+# 0.0.2
+
+### 🎉 EXAMPLE COMPLETO
+ - Se agregó el Example completo

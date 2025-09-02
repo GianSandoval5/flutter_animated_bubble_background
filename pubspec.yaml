@@ -1,6 +1,6 @@
 name: flutter_animated_bubble_background
 description: "A Flutter package that provides an animated background widget with floating bubbles and customizable gradient colors. Perfect for creating engaging and beautiful app backgrounds."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/GianSandoval5/flutter_animated_bubble_background
 repository: https://github.com/GianSandoval5/flutter_animated_bubble_background
 issue_tracker: https://github.com/GianSandoval5/flutter_animated_bubble_background/issues
