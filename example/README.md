@@ -20,7 +20,7 @@
 
 ### 🌌 Configuración Actual: Galaxia Violeta
 
-<img src="../assets/purpleGalaxyGradient.png" alt="Purple Galaxy Gradient Demo" width="300" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);" />
+<img src="assets/purpleGalaxyGradient.png" alt="Purple Galaxy Gradient Demo" width="300" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);" />
 
 *Gradiente dinámico con 30 burbujas animadas en tonos violeta y rosa*
 
@@ -214,11 +214,11 @@ example/
 
 | 🎨 Tema | 📸 Preview | 🎯 Casos de Uso |
 |---------|------------|------------------|
-| **🌌 Galaxia Violeta** | <img src="../assets/purpleGalaxyGradient.png" width="150" style="border-radius: 10px;" /> | Apps de entretenimiento, música, gaming |
-| **🌅 Atardecer Tropical** | <img src="../assets/tropicalSunsetGradient.png" width="150" style="border-radius: 10px;" /> | Apps de viajes, fotografía, lifestyle |
-| **🌊 Océano Profundo** | <img src="../assets/deepOceanGradient.png" width="150" style="border-radius: 10px;" /> | Apps de salud, meditación, wellness |
-| **🌲 Bosque Místico** | <img src="../assets/mysticalForestGradient.png" width="150" style="border-radius: 10px;" /> | Apps de naturaleza, eco-friendly, outdoors |
-| **💙 Básico Elegante** | <img src="../assets/basicExampleGradient.png" width="150" style="border-radius: 10px;" /> | Apps corporativas, productividad, business |
+| **🌌 Galaxia Violeta** | <img src="assets/purpleGalaxyGradient.png" width="150" style="border-radius: 10px;" /> | Apps de entretenimiento, música, gaming |
+| **🌅 Atardecer Tropical** | <img src="assets/tropicalSunsetGradient.png" width="150" style="border-radius: 10px;" /> | Apps de viajes, fotografía, lifestyle |
+| **🌊 Océano Profundo** | <img src="assets/deepOceanGradient.png" width="150" style="border-radius: 10px;" /> | Apps de salud, meditación, wellness |
+| **🌲 Bosque Místico** | <img src="assets/mysticalForestGradient.png" width="150" style="border-radius: 10px;" /> | Apps de naturaleza, eco-friendly, outdoors |
+| **💙 Básico Elegante** | <img src="assets/basicExampleGradient.png" width="150" style="border-radius: 10px;" /> | Apps corporativas, productividad, business |
 
 </div>
 
@@ -387,14 +387,14 @@ class AppColors {
 <table>
 <tr>
 <td align="center">
-<img src="../assets/deepOceanGradient.png" width="200" style="border-radius: 12px;" />
+<img src="assets/deepOceanGradient.png" width="200" style="border-radius: 12px;" />
 <br/>
 <strong>🌊 Océano Tranquilo</strong>
 <br/>
 <code>speed: 0.6 | burbujas: 20</code>
 </td>
 <td align="center">
-<img src="../assets/tropicalSunsetGradient.png" width="200" style="border-radius: 12px;" />
+<img src="assets/tropicalSunsetGradient.png" width="200" style="border-radius: 12px;" />
 <br/>
 <strong>🔥 Energía Extrema</strong>
 <br/>
@@ -403,14 +403,14 @@ class AppColors {
 </tr>
 <tr>
 <td align="center">
-<img src="../assets/mysticalForestGradient.png" width="200" style="border-radius: 12px;" />
+<img src="assets/mysticalForestGradient.png" width="200" style="border-radius: 12px;" />
 <br/>
 <strong>🌙 Modo Nocturno</strong>
 <br/>
 <code>speed: 0.8 | burbujas: 25</code>
 </td>
 <td align="center">
-<img src="../assets/purpleGalaxyGradient.png" width="200" style="border-radius: 12px;" />
+<img src="assets/purpleGalaxyGradient.png" width="200" style="border-radius: 12px;" />
 <br/>
 <strong>✨ Galaxia Actual</strong>
 <br/>
@@ -498,10 +498,10 @@ AnimatedBubbleBackground(
 
 | Plataforma | Estado | Preview |
 |------------|--------|---------|
-| **📱 Android** | ✅ Totalmente Compatible | <img src="../assets/purpleGalaxyGradient.png" width="100" style="border-radius: 8px;" /> |
-| **🍎 iOS** | ✅ Totalmente Compatible | <img src="../assets/basicExampleGradient.png" width="100" style="border-radius: 8px;" /> |
-| **🌐 Web** | ✅ Totalmente Compatible | <img src="../assets/deepOceanGradient.png" width="100" style="border-radius: 8px;" /> |
-| **🖥️ Desktop** | ✅ Windows, macOS, Linux | <img src="../assets/mysticalForestGradient.png" width="100" style="border-radius: 8px;" /> |
+| **📱 Android** | ✅ Totalmente Compatible | <img src="assets/purpleGalaxyGradient.png" width="100" style="border-radius: 8px;" /> |
+| **🍎 iOS** | ✅ Totalmente Compatible | <img src="assets/basicExampleGradient.png" width="100" style="border-radius: 8px;" /> |
+| **🌐 Web** | ✅ Totalmente Compatible | <img src="assets/deepOceanGradient.png" width="100" style="border-radius: 8px;" /> |
+| **🖥️ Desktop** | ✅ Windows, macOS, Linux | <img src="assets/mysticalForestGradient.png" width="100" style="border-radius: 8px;" /> |
 
 </div>
 
@@ -546,7 +546,7 @@ AnimatedBubbleBackground(
 
 ### ⭐ ¿Te gustó el proyecto?
 
-<img src="../assets/tropicalSunsetGradient.png" width="250" style="border-radius: 15px; margin: 10px;" />
+<img src="assets/tropicalSunsetGradient.png" width="250" style="border-radius: 15px; margin: 10px;" />
 
 Si este ejemplo te fue útil, considera darle una ⭐ al repositorio
 
@@ -555,11 +555,11 @@ Si este ejemplo te fue útil, considera darle una ⭐ al repositorio
 ### 🌈 Explora Todos los Temas
 
 <p>
-<img src="../assets/purpleGalaxyGradient.png" width="120" style="border-radius: 10px; margin: 5px;" />
-<img src="../assets/tropicalSunsetGradient.png" width="120" style="border-radius: 10px; margin: 5px;" />
-<img src="../assets/deepOceanGradient.png" width="120" style="border-radius: 10px; margin: 5px;" />
-<img src="../assets/mysticalForestGradient.png" width="120" style="border-radius: 10px; margin: 5px;" />
-<img src="../assets/basicExampleGradient.png" width="120" style="border-radius: 10px; margin: 5px;" />
+<img src="assets/purpleGalaxyGradient.png" width="120" style="border-radius: 10px; margin: 5px;" />
+<img src="assets/tropicalSunsetGradient.png" width="120" style="border-radius: 10px; margin: 5px;" />
+<img src="assets/deepOceanGradient.png" width="120" style="border-radius: 10px; margin: 5px;" />
+<img src="assets/mysticalForestGradient.png" width="120" style="border-radius: 10px; margin: 5px;" />
+<img src="assets/basicExampleGradient.png" width="120" style="border-radius: 10px; margin: 5px;" />
 </p>
 
 [🔙 Volver arriba](#-flutter-animated-bubble-background---example)
