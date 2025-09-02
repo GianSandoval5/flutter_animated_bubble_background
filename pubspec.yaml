@@ -1,7 +1,27 @@
 name: flutter_animated_bubble_background
-description: "Un paquete Flutter que proporciona un widget de fondo animado con burbujas flotantes y degradado de colores personalizable."
+description: "A Flutter package that provides an animated background widget with floating bubbles and customizable gradient colors. Perfect for creating engaging and beautiful app backgrounds."
 version: 0.0.1
-homepage: https://github.com/tu-usuario/flutter_animated_bubble_background
+homepage: https://github.com/GianSandoval5/flutter_animated_bubble_background
+repository: https://github.com/GianSandoval5/flutter_animated_bubble_background
+issue_tracker: https://github.com/GianSandoval5/flutter_animated_bubble_background/issues
+documentation: https://github.com/GianSandoval5/flutter_animated_bubble_background#readme
+
+topics:
+  - ui
+  - animation
+  - background
+  - bubbles
+  - gradient
+  - flutter-widget
+  - beautiful-ui
+
+screenshots:
+  - description: 'Purple Galaxy gradient with animated bubbles'
+    path: assets/purpleGalaxyGradient.png
+  - description: 'Tropical Sunset gradient theme'
+    path: assets/tropicalSunsetGradient.png
+  - description: 'Deep Ocean blue gradient'
+    path: assets/deepOceanGradient.png
 
 environment:
   sdk: ^3.9.0
